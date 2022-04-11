@@ -2,16 +2,16 @@ body
 {  
     margin: 0;  
     padding: 0;  
-    background-color:lightblue;  
+        background:#27D863;  
+     
     font-family: 'Arial';  
 }  
 .signup{  
-        width: 382px;  
-        overflow: hidden;  
-        margin: auto;  
-        margin: 20 0 0 450px;  
-        padding: 80px;  
-        background: blue;  
+        width: 300px;  
+        overflow: hidden;   
+        margin: 8% 0% 10% 32%;  
+        padding: 40px;  
+        background: #12EDC5;  
         border-radius: 15px ;  
           
 }  
@@ -29,7 +29,17 @@ label{
     height: 30px;  
     border: none;  
     border-radius: 3px;  
+    padding-left: 8px; 
+    margin-bottom: 5%; 
+
+}
+#Email{width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
     padding-left: 8px;  
+    margin-bottom: 5%;
+
 
 }  
 #Pass{  
@@ -38,6 +48,8 @@ label{
     border: none;  
     border-radius: 3px;  
     padding-left: 8px;  
+    margin-bottom: 5%;
+    
       
 }  
 #sign{  
@@ -51,13 +63,13 @@ label{
   
 }  
 span{  
-    color: white;  
+    color: green;  
     font-size: 17px;  
 }  
 a{    
 padding-top: 70px;
-color: whitesmoke;
+color:purple;
    }
-   #sign{
+ #sign{
       margin-top: 20px;
    }
